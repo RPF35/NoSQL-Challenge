@@ -19,6 +19,8 @@ Find and display one document in the establishments collection using find_one an
 Assign the establishments collection to a variable to prepare the collection for use.
 
 
+
+
 Part 2: Update the Database
 Use NoSQL_setup_starter.ipynb for this section of the challenge.
 
@@ -36,6 +38,8 @@ Some of the number values are stored as strings, when they should be stored as n
 
 Use update_many to convert latitude and longitude to decimal numbers.
 Use update_many to convert RatingValue to integer numbers.
+
+
 
 
 Part 3: Exploratory Analysis
